@@ -110,6 +110,7 @@
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Sayed-Oni)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sayed-Oni)  
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sayed-Oni)   -->
+<img src="https://github-readme-activity-graph.herokuapp.com?user=Sayed-Oni&theme=merko&hide_border=true">
 
 
