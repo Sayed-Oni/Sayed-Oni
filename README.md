@@ -1,49 +1,34 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Oni</h1>
 <h4 align="center">Just trying to be a good programmer.</h4>
+<h4 align="center">𝐼'𝑚 𝑏𝑢𝑠𝑦 𝑖𝑛 𝑙𝑒𝑎𝑟𝑛𝑖𝑛𝑔 𝑛𝑒𝑤 𝑡𝑒𝑐ℎ𝑛𝑜𝑙𝑜𝑔𝑖𝑒𝑠 𝑖𝑛 𝑡ℎ𝑒 𝑐𝑜𝑚𝑝𝑢𝑡𝑒𝑟 𝑤𝑜𝑟𝑙𝑑. 𝐿𝑒𝑡'𝑠 𝑔𝑜 𝑑𝑒𝑒𝑝𝑒𝑟 𝑎𝑛𝑑 𝑡𝑟𝑦 𝑡𝑜 𝑢𝑛𝑑𝑒𝑟𝑠𝑡𝑎𝑛𝑑 𝑓𝑟𝑜𝑚 𝑡𝑜𝑝 𝑡𝑜 𝑏𝑜𝑡𝑡𝑜𝑚. 𝐿𝑒𝑎𝑟𝑛𝑖𝑛𝑔 𝑛𝑒𝑤 𝑡𝑒𝑐ℎ𝑛𝑜𝑙𝑜𝑔𝑖𝑒𝑠 𝑖𝑛𝑐𝑟𝑒𝑎𝑠𝑒 𝑎 𝑙𝑜𝑡 𝑜𝑓 𝑘𝑛𝑜𝑤𝑙𝑒𝑑𝑔𝑒 𝑎𝑛𝑑 𝑠𝑘𝑖𝑙𝑙𝑠. 𝑆𝑜 𝐼 𝑓𝑖𝑛𝑑 𝑢𝑛𝑝𝑟𝑒𝑐𝑒𝑑𝑒𝑛𝑡𝑒𝑑 𝑗𝑜𝑦 𝑖𝑛 𝑙𝑒𝑎𝑟𝑛𝑖𝑛𝑔 𝑛𝑒𝑤 𝑡𝑒𝑐ℎ𝑛𝑜𝑙𝑜𝑔𝑖𝑒𝑠.🙂</h4>
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
+<p align="left"> <img src="![](https://komarev.com/ghpvc/?username=Sayed-Oni&color=brightgreen)" alt="100rabhcsmc" /> </p>
 
-<p align="left"> <a href="https://twitter.com/100rabhcsmc" target="blank"><img src="https://img.shields.io/twitter/follow/100rabhcsmc?logo=twitter&style=for-the-badge" alt="100rabhcsmc" /></a> </p>
+<!-- <p align="left"> <a href="" target="blank"><img src="https://img.shields.io/twitter/follow/100rabhcsmc?logo=twitter&style=for-the-badge" alt="100rabhcsmc" /></a> </p> -->
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a> 
-
-- 🌱 I’m currently Working on Mobile App(React-Native)
-
-- 🤝 I’m available for freelancing.
-
-- 🌱 I’m currently learning Swift, SwiftUI & <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a> 
-
-- 📝 I regularly write articles on <a href="https://phoenix.tech/griffyn/" target="blank">Dev</a>
-
-- 💬 Ask me about **Reactjs & React-Native** 
-
-- 📫 How to reach me **saurabhchavan052@gmail.com**
-
-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
-<br/>
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 50px;">Connect with me 🤝 </h3>
-
-
-# Hello there 👋, I'm Sayed Oni
-![](https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
-
-𝐼'𝑚 𝑏𝑢𝑠𝑦 𝑖𝑛 𝑙𝑒𝑎𝑟𝑛𝑖𝑛𝑔 𝑛𝑒𝑤 𝑡𝑒𝑐ℎ𝑛𝑜𝑙𝑜𝑔𝑖𝑒𝑠 𝑖𝑛 𝑡ℎ𝑒 𝑐𝑜𝑚𝑝𝑢𝑡𝑒𝑟 𝑤𝑜𝑟𝑙𝑑. 𝐿𝑒𝑡'𝑠 𝑔𝑜 𝑑𝑒𝑒𝑝𝑒𝑟 𝑎𝑛𝑑 𝑡𝑟𝑦 𝑡𝑜 𝑢𝑛𝑑𝑒𝑟𝑠𝑡𝑎𝑛𝑑 𝑓𝑟𝑜𝑚 𝑡𝑜𝑝 𝑡𝑜 𝑏𝑜𝑡𝑡𝑜𝑚. 𝐿𝑒𝑎𝑟𝑛𝑖𝑛𝑔 𝑛𝑒𝑤 𝑡𝑒𝑐ℎ𝑛𝑜𝑙𝑜𝑔𝑖𝑒𝑠 𝑖𝑛𝑐𝑟𝑒𝑎𝑠𝑒 𝑎 𝑙𝑜𝑡 𝑜𝑓 𝑘𝑛𝑜𝑤𝑙𝑒𝑑𝑔𝑒 𝑎𝑛𝑑 𝑠𝑘𝑖𝑙𝑙𝑠. 𝑆𝑜 𝐼 𝑓𝑖𝑛𝑑 𝑢𝑛𝑝𝑟𝑒𝑐𝑒𝑑𝑒𝑛𝑡𝑒𝑑 𝑗𝑜𝑦 𝑖𝑛 𝑙𝑒𝑎𝑟𝑛𝑖𝑛𝑔 𝑛𝑒𝑤 𝑡𝑒𝑐ℎ𝑛𝑜𝑙𝑜𝑔𝑖𝑒𝑠.🙂
-
-Skills: HTML / CSS / JS /
-
 - 🌱 I’m currently learning Web Development 
-- 🔭 I’m currently working on JavaScript 
+ 
+- 🔭 I’m currently working on JavaScript
+
 - 👯 I’m looking to collaborate on [Currently not collaborating] 
+
 - 💬 Ask me about Anything 
+
 - 📫 How to reach me: onihassan44@gmail.com 
+
 - ⚡ Fun fact: I like to MOD GAME and obviously playing them 😝 
 
+<!-- - 🤝 I’m available for freelancing. -->
+
+- 📄 Know about my experiences <a href="" target="blank">Resume</a>
+
+<br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 50px;">Connect with me 🤝 </h3>
 
 <p align="center">
