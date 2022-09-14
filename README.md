@@ -100,10 +100,10 @@
 
 <div align="center">
 	<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sayed-Oni&show_icons=true&theme=merko&hide_border=false&locale=en" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Sayed-Oni&theme=merko" />
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sayed-Oni&show_icons=true&theme=merko&hide_border=true&locale=en" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Sayed-Oni&theme=merko&hide_border=true" />
 </div>
-
+<br />
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Sayed-Oni)](https://github.com/ryo-ma/github-profile-trophy) -->
 
