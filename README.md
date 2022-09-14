@@ -27,7 +27,7 @@
 <!-- 		<a style="margin-left: 10px;" target="_blank" href="">
 				<img src="https://img.icons8.com/doodle/40/000000/youtube--v2.png" ></a> -->
 
-</p>
+</p> 
 
 <div align="center">
 <!-- <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Oni</h1> -->
