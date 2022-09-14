@@ -1,5 +1,5 @@
 <div align=center>
-        <img src="https://octodex.github.com/nuxtocat/" alt="nuxtocat" height="">
+        <img src="https://octodex.github.com/images/Fintechtocat.png" alt="nuxtocat" height="">
 </div>
 <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Oni+%F0%9F%91%8B;Web+Developer;Front-End+Programer;Problem+Solver;Open-Source+Enthusiast" alt="Headline" />
@@ -40,6 +40,7 @@
        alt="snake" /></a>
 </div>
 
+<br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sayed-Oni&label=Profile%20views&color=FF0049&style=for-the-badge" alt="Sayed-Oni" /> </p>
 
 <!-- <p align="left"> <a href="" target="blank"><img src="https://img.shields.io/twitter/follow/100rabhcsmc?logo=twitter&style=for-the-badge" alt="100rabhcsmc" /></a> </p> -->
