@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sayed-Oni&label=Profile%20views&color=FF0049&style=for-the-badge" alt="Sayed-Oni" /> </p>
 <br/>
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/coders-prog.gif">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
 <div style="text-align: start;">
@@ -108,16 +108,16 @@
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
 [![](https://github-readme-stats.vercel.app/api?username=Sayed-Oni&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Sayed-Oni)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=Sayed-Oni&theme=material-palenight)](https://github.com/Sayed-Oni)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sayed-Oni&theme=merko&hide_border=true)](https://git.io/streak-stats)
 </div>
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sayed-Oni&show_icons=true) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayed-Oni)](https://github.com/anuraghazra/github-readme-stats) -->
 	
-<p align="center">
+<!-- <p align="center">
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sayed-Oni&theme=algolia" alt="7oSkaaa" />
-</p>	
+</p>	 -->
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Sayed-Oni)](https://github.com/ryo-ma/github-profile-trophy) -->
 
