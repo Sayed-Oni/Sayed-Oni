@@ -1,5 +1,5 @@
 <div align=center>
-        <img src="https://octodex.github.com/images/Fintechtocat.png" alt="nuxtocat" height="">
+        <img src="https://octodex.github.com/images/Fintechtocat.png" alt="nuxtocat" height="200">
 </div>
 <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Oni+%F0%9F%91%8B;Web+Developer;Front-End+Programer;Problem+Solver;Open-Source+Enthusiast" alt="Headline" />
