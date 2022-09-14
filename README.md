@@ -50,6 +50,9 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
+
+<br/>
+<div>
 - 🌱 I’m currently learning Web Development 
  
 - 🔭 I’m currently working on JavaScript
@@ -65,6 +68,7 @@
 <!-- - 🤝 I’m available for freelancing. -->
 
 <!-- - 📄 Know about my experiences <a href="" target="blank">Resume</a> -->
+</div>
 
 
 
