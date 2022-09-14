@@ -11,6 +11,8 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
+<br/>
+
 - 🌱 I’m currently learning Web Development 
  
 - 🔭 I’m currently working on JavaScript
@@ -28,6 +30,7 @@
 <!-- - 📄 Know about my experiences <a href="" target="blank">Resume</a> -->
 
 
+<br/>
 <br/>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 50px;">Connect with me 🤝 </h3>
