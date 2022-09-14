@@ -73,9 +73,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sayed-Oni)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!-- <p align="center">
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sayed-Oni&theme=algolia" alt="7oSkaaa" />
-</p> -->
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Sayed-Oni)
+<p align="center">
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sayed-Oni&theme=FF0049" alt="7oSkaaa" />
+</p>
 
