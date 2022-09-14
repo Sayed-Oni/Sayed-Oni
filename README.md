@@ -4,12 +4,15 @@
 <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?font=Lobster&size=32&color=E404F7&center=true&vCenter=true&width=600&lines=Hi+there+I'm+Oni+%F0%9F%91%8B;Web+Developer;Front-End+Programer;Problem+Solver;Open-Source+Enthusiast" alt="Headline" />
 </div>
+<br/>
 
+
+<br/>
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-<div style:text-aling-start;>
+<div style="text-align: start;">
 <br/>
 - 🌱 I’m currently learning Web Development 
  
@@ -23,9 +26,9 @@
 
 - ⚡ Fun fact: I like to MOD GAME and obviously playing them 😝 
 
-- 🤝 I’m available for freelancing.
+<!-- - 🤝 I’m available for freelancing. -->
 
-- 📄 Know about my experiences <a href="" target="blank">Resume</a>
+<!-- - 📄 Know about my experiences <a href="" target="blank">Resume</a> -->
 </div>
 
 <!-- <div align="center">
