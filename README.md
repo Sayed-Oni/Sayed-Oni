@@ -67,6 +67,8 @@
 <!-- - 📄 Know about my experiences <a href="" target="blank">Resume</a> -->
 
 
+
+<br/>
 <br/>
 <br/>
 
@@ -100,7 +102,7 @@
 <br />
 <!-- <a margin="10" href="https://sanity.io" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/sanity.svg" alt="sanity"></a> -->
 <!-- <a margin="10" href="https://rubyonrails.org" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/rails.svg" alt="ruby on rails"></a> -->
-<a margin="10" href="https://expressjs.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/express.svg" alt="express"></a>
+<!-- <a margin="10" href="https://expressjs.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/express.svg" alt="express"></a> -->
 </div>
 <br />
 <br />
@@ -112,7 +114,6 @@
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sayed-Oni&theme=algolia" alt="7oSkaaa" />
 </p>	
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sayed-Oni)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sayed-Oni&show_icons=true) 
 
@@ -120,5 +121,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sayed-Oni)](https://github.com/ryo-ma/github-profile-trophy)
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sayed-Oni)  
 
 
