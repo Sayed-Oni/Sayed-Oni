@@ -3,7 +3,7 @@
 <h4 align="center">𝐼'𝑚 𝑏𝑢𝑠𝑦 𝑖𝑛 𝑙𝑒𝑎𝑟𝑛𝑖𝑛𝑔 𝑛𝑒𝑤 𝑡𝑒𝑐ℎ𝑛𝑜𝑙𝑜𝑔𝑖𝑒𝑠 𝑖𝑛 𝑡ℎ𝑒 𝑐𝑜𝑚𝑝𝑢𝑡𝑒𝑟 𝑤𝑜𝑟𝑙𝑑. 𝐿𝑒𝑡'𝑠 𝑔𝑜 𝑑𝑒𝑒𝑝𝑒𝑟 𝑎𝑛𝑑 𝑡𝑟𝑦 𝑡𝑜 𝑢𝑛𝑑𝑒𝑟𝑠𝑡𝑎𝑛𝑑 𝑓𝑟𝑜𝑚 𝑡𝑜𝑝 𝑡𝑜 𝑏𝑜𝑡𝑡𝑜𝑚. 𝐿𝑒𝑎𝑟𝑛𝑖𝑛𝑔 𝑛𝑒𝑤 𝑡𝑒𝑐ℎ𝑛𝑜𝑙𝑜𝑔𝑖𝑒𝑠 𝑖𝑛𝑐𝑟𝑒𝑎𝑠𝑒 𝑎 𝑙𝑜𝑡 𝑜𝑓 𝑘𝑛𝑜𝑤𝑙𝑒𝑑𝑔𝑒 𝑎𝑛𝑑 𝑠𝑘𝑖𝑙𝑙𝑠. 𝑆𝑜 𝐼 𝑓𝑖𝑛𝑑 𝑢𝑛𝑝𝑟𝑒𝑐𝑒𝑑𝑒𝑛𝑡𝑒𝑑 𝑗𝑜𝑦 𝑖𝑛 𝑙𝑒𝑎𝑟𝑛𝑖𝑛𝑔 𝑛𝑒𝑤 𝑡𝑒𝑐ℎ𝑛𝑜𝑙𝑜𝑔𝑖𝑒𝑠.🙂</h4>
 </div>
 
-<p align="left"> <img src="![](https://komarev.com/ghpvc/?username=your-github-username&color=green)" alt="" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sayed-Oni&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
 <!-- <p align="left"> <a href="" target="blank"><img src="https://img.shields.io/twitter/follow/100rabhcsmc?logo=twitter&style=for-the-badge" alt="100rabhcsmc" /></a> </p> -->
 
@@ -26,6 +26,8 @@
 <!-- - 🤝 I’m available for freelancing. -->
 
 <!-- - 📄 Know about my experiences <a href="" target="blank">Resume</a> -->
+
+
 
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 50px;">Connect with me 🤝 </h3>
