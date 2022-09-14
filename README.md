@@ -107,8 +107,8 @@
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=Sayed-Oni&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Sayed-Oni)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sayed-Oni&theme=merko&hide_border=true)](https://git.io/streak-stats)
+[![](https://github-readme-stats.vercel.app/api?username=Sayed-Oni&show_icons=true&theme=merko&hide_border=false&locale=en)](https://github.com/Sayed-Oni)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sayed-Oni&theme=merko)](https://git.io/streak-stats)
 </div>
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sayed-Oni&show_icons=true) 
