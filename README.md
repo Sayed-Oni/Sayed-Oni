@@ -1,5 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sayed-Oni&label=Profile%20views&color=FF0049&style=for-the-badge" alt="Sayed-Oni" /> </p>
-
 <div align=center>
         <img src="https://octodex.github.com/images/Fintechtocat.png" alt="Fintechtocat" height="300">
 </div>
@@ -8,15 +6,16 @@
 </div>
 <br/>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sayed-Oni&label=Profile%20views&color=FF0049&style=for-the-badge" alt="Sayed-Oni" /> </p>
 <br/>
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
 <div style="text-align: start;">
-- 🌱 I’m currently learning Web Development 
- 
+
+- 🌱  I’m currently learning Web Development
+	
 - 🔭 I’m currently working on JavaScript
 
 - 👯 I’m looking to collaborate on [Currently not collaborating] 
