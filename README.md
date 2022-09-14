@@ -22,7 +22,7 @@ Skills: HTML / CSS / JS /
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/www.linkedin.com/in/sayed-oni/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
 	 <a style="margin-left: 5px;" target="_blank" href="https://www.facebook.com/https://www.facebook.com/Sayed.Oni.18/">
-					<img src="[https://img.icons8.com/3d-plastilina/100/000000/3d-plastilina-round-light-blue-facebook-logo.png](https://img.icons8.com/color/48/000000/facebook-circled--v3.png)" ></a>
+					<img src="[https://img.icons8.com/clouds/100/000000/facebook-new.png](https://img.icons8.com/color/48/000000/facebook-circled--v3.png)" ></a>
 	 <a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/https://stackoverflow.com/users/15689358/noxx">
 				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
 	  <a style="margin-left: 10px;" target="_blank" href="(https://www.reddit.com/user/https://www.reddit.com/user/SayedOni)">
