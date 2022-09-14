@@ -101,12 +101,17 @@
 <div align="center">
 <br />
 	
-<div align="">
+<!-- <div align="">
 <h2 align="" style="margin: 5px 10px;">Github stats:</h2> 
 
 [![](https://github-readme-stats.vercel.app/api?username=Sayed-Oni&show_icons=true&theme=merko&hide_border=false&locale=en)](https://github.com/Sayed-Oni)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sayed-Oni&theme=merko)](https://git.io/streak-stats)
-</div>
+</div> -->
+<p align="center">
+
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sayed-Oni&show_icons=true&theme=merko&hide_border=false&locale=en" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Sayed-Oni&theme=merko" />
+</p>
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Sayed-Oni)](https://github.com/ryo-ma/github-profile-trophy) -->
 
