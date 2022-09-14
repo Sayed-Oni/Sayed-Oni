@@ -104,16 +104,15 @@
 <div align="center">
 <br />
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sayed-Oni&show_icons=true) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayed-Oni)](https://github.com/anuraghazra/github-readme-stats)
+	
 <p align="center">
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sayed-Oni&theme=algolia" alt="7oSkaaa" />
 </p>	
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sayed-Oni&show_icons=true) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayed-Oni)](https://github.com/anuraghazra/github-readme-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sayed-Oni)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Sayed-Oni)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sayed-Oni)  
 
