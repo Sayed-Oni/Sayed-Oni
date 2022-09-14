@@ -2,7 +2,7 @@
         <img src="https://octodex.github.com/images/Fintechtocat.png" alt="Fintechtocat" height="200">
 </div>
 <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Lobster&size=32&color=F7B302&center=true&vCenter=true&width=600&lines=Hi+there+I'm+Oni+%F0%9F%91%8B;Web+Developer;Front-End+Programer;Problem+Solver;Open-Source+Enthusiast" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Lobster&size=32&color=F70499&center=true&vCenter=true&width=600&lines=Hi+there+I'm+Oni+%F0%9F%91%8B;Web+Developer;Front-End+Programer;Problem+Solver;Open-Source+Enthusiast" alt="Headline" />
 </div>
 <br/>
 
