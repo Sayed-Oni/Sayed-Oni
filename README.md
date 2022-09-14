@@ -10,7 +10,7 @@
 </div>
 
 <br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sayed-Oni&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sayed-Oni&label=Profile%20views&color=dc143c&style=flat" alt="" /> </p>
 
 <!-- <p align="left"> <a href="" target="blank"><img src="https://img.shields.io/twitter/follow/100rabhcsmc?logo=twitter&style=for-the-badge" alt="100rabhcsmc" /></a> </p> -->
 
@@ -49,8 +49,6 @@
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/www.linkedin.com/in/sayed-oni/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-	 <a style="margin-left: 5px;" target="_blank" href="https://www.facebook.com/https://www.facebook.com/Sayed.Oni.18/">
-					<img src="[https://img.icons8.com/clouds/100/000000/facebook-new.png](https://img.icons8.com/color/48/000000/facebook-circled--v3.png)" ></a>
 	 <a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/https://stackoverflow.com/users/15689358/noxx">
 				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
 	  <a style="margin-left: 10px;" target="_blank" href="(https://www.reddit.com/user/https://www.reddit.com/user/SayedOni)">
