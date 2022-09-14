@@ -61,9 +61,6 @@
 
 </p> 
 
-
-<br/>
-
 <!-- <p align="left"> <a href="" target="blank"><img src="https://img.shields.io/twitter/follow/100rabhcsmc?logo=twitter&style=for-the-badge" alt="100rabhcsmc" /></a> </p> -->
 
 ## Tech Stack
@@ -104,20 +101,12 @@
 <div align="center">
 <br />
 	
-<div align="center">
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+<div align="">
+<h2 align="" style="margin: 5px 10px;">Github stats:</h2> 
 
 [![](https://github-readme-stats.vercel.app/api?username=Sayed-Oni&show_icons=true&theme=merko&hide_border=false&locale=en)](https://github.com/Sayed-Oni)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sayed-Oni&theme=merko)](https://git.io/streak-stats)
 </div>
-
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sayed-Oni&show_icons=true) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayed-Oni)](https://github.com/anuraghazra/github-readme-stats) -->
-	
-<!-- <p align="center">
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sayed-Oni&theme=algolia" alt="7oSkaaa" />
-</p>	 -->
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Sayed-Oni)](https://github.com/ryo-ma/github-profile-trophy) -->
 
