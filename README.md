@@ -31,6 +31,12 @@
 <!-- - 📄 Know about my experiences <a href="" target="blank">Resume</a> -->
 </div>
 
+<div align="center">
+  <a href="">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
 <!-- <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Oni</h1>
 <h4 align="center">𝐼'𝑚 𝑏𝑢𝑠𝑦 𝑖𝑛 𝑙𝑒𝑎𝑟𝑛𝑖𝑛𝑔 𝑛𝑒𝑤 𝑡𝑒𝑐ℎ𝑛𝑜𝑙𝑜𝑔𝑖𝑒𝑠 𝑖𝑛 𝑡ℎ𝑒 𝑐𝑜𝑚𝑝𝑢𝑡𝑒𝑟 𝑤𝑜𝑟𝑙𝑑. 𝐿𝑒𝑡'𝑠 𝑔𝑜 𝑑𝑒𝑒𝑝𝑒𝑟 𝑎𝑛𝑑 𝑡𝑟𝑦 𝑡𝑜 𝑢𝑛𝑑𝑒𝑟𝑠𝑡𝑎𝑛𝑑 𝑓𝑟𝑜𝑚 𝑡𝑜𝑝 𝑡𝑜 𝑏𝑜𝑡𝑡𝑜𝑚. 𝐿𝑒𝑎𝑟𝑛𝑖𝑛𝑔 𝑛𝑒𝑤 𝑡𝑒𝑐ℎ𝑛𝑜𝑙𝑜𝑔𝑖𝑒𝑠 𝑖𝑛𝑐𝑟𝑒𝑎𝑠𝑒 𝑎 𝑙𝑜𝑡 𝑜𝑓 𝑘𝑛𝑜𝑤𝑙𝑒𝑑𝑔𝑒 𝑎𝑛𝑑 𝑠𝑘𝑖𝑙𝑙𝑠. 𝑆𝑜 𝐼 𝑓𝑖𝑛𝑑 𝑢𝑛𝑝𝑟𝑒𝑐𝑒𝑑𝑒𝑛𝑡𝑒𝑑 𝑗𝑜𝑦 𝑖𝑛 𝑙𝑒𝑎𝑟𝑛𝑖𝑛𝑔 𝑛𝑒𝑤 𝑡𝑒𝑐ℎ𝑛𝑜𝑙𝑜𝑔𝑖𝑒𝑠.</h4>
@@ -60,12 +66,6 @@
 
 </p> 
 
-
-<div align="center">
-  <a href="">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
 
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sayed-Oni&label=Profile%20views&color=FF0049&style=for-the-badge" alt="Sayed-Oni" /> </p>
