@@ -98,7 +98,6 @@
 <!-- <a margin="10" href="https://expressjs.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/express.svg" alt="express"></a> -->
 </div>
 <br />
-<br />
 
 <div align="center">
 	<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
