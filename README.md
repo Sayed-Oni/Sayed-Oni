@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sayed-Oni&label=Profile%20views&color=FF0049&style=for-the-badge" alt="Sayed-Oni" /> </p>
+
 <div align=center>
         <img src="https://octodex.github.com/images/Fintechtocat.png" alt="Fintechtocat" height="300">
 </div>
@@ -13,7 +15,6 @@
 </a>
 
 <div style="text-align: start;">
-<br/>
 - 🌱 I’m currently learning Web Development 
  
 - 🔭 I’m currently working on JavaScript
@@ -68,15 +69,8 @@
 
 
 <br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sayed-Oni&label=Profile%20views&color=FF0049&style=for-the-badge" alt="Sayed-Oni" /> </p>
-
 
 <!-- <p align="left"> <a href="" target="blank"><img src="https://img.shields.io/twitter/follow/100rabhcsmc?logo=twitter&style=for-the-badge" alt="100rabhcsmc" /></a> </p> -->
-
-
-<br/>
-<br/>
-<br/>
 
 ## Tech Stack
 
