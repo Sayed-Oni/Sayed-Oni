@@ -100,8 +100,8 @@
 
 <div align="center">
 	<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinPatel04&layout=compact&hide=TSQL&theme=chartreuse-dark">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sayed-Oni&show_icons=true&theme=merko&hide_border=true&locale=en" />
+	<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayed-Oni&langs_count=8&layout=compact&theme=merko">
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sayed-Oni&show_icons=true&theme=merko&hide_border=true" />
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Sayed-Oni&theme=merko&hide_border=true" />
 </div>
 <br />
