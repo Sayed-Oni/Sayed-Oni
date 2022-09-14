@@ -17,27 +17,29 @@ Skills: HTML / CSS / JS /
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc">
+	 <a style="margin-left: 10px;" target="_blank" href="(https://github.com/Sayed-Oni)">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/www.linkedin.com/in/sayed-oni/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+	 <a style="margin-left: 5px;" target="_blank" href="https://www.facebook.com/https://www.facebook.com/Sayed.Oni.18/">
+					<img src="https://img.icons8.com/3d-plastilina/100/000000/3d-plastilina-round-light-blue-facebook-logo.png" ></a>
+	 <a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/https://stackoverflow.com/users/15689358/noxx">
 				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/100rabhcsmc">
-					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/100rabhch">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/100rabhcsmc">
-			<img src="https://img.icons8.com/doodle/40/000000/twitter-squared--v2.png" ></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
-				<img src="https://img.icons8.com/doodle/40/000000/youtube--v2.png" ></a>
-		<a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
-					<img src="https://img.icons8.com/plasticine/40/000000/resume.png" ></a>
+	  <a style="margin-left: 10px;" target="_blank" href="(https://www.reddit.com/user/https://www.reddit.com/user/SayedOni)">
+		<img src="https://img.icons8.com/doodle/48/000000/reddit--v4.png"></a>
+<!-- 	   <a style="margin-left: 10px;" target="_blank" href="">
+					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a> -->
+<!--         <a style="margin-left: 10px;" target="_blank" href="">
+			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a> -->
+<!-- 		<a style="margin-left: 10px;" target="_blank" href="">
+			<img src="https://img.icons8.com/doodle/40/000000/twitter-squared--v2.png" ></a> -->
+<!-- 		<a style="margin-left: 10px;" target="_blank" href="">
+				<img src="https://img.icons8.com/doodle/40/000000/youtube--v2.png" ></a> -->
+		
       </div>
 
 </p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sayed-Oni)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/sayed-oni/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/Sayed.Oni.18/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/15689358/noxx)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/https://www.reddit.com/user/SayedOni)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sayed-Oni)  
 
